@@ -5,6 +5,8 @@
 
 ___________________________
 
+<a href='https://www.unitag.io/qrcode'><img src='https://www.unitag.io/qreator/generate?crs=Ppv8rOENN3V1lAwTz82zPpEYgrTpeQPpAxSJGcmyf1yS40m%252F8TYex%252BClEuWu4lenvXZtoPs%252F%252BUrLXgu0YhszNgP%252BKdjyjPlmstXQT%252FaVrtPKhQyftmIdGYv13ikDwALrMbZP22mR79KHkzbFuKXEpiL8j20cuH2aGWOj2IjvLpcUzuo31AnGGGBeZdrGyuu6Mb1zDGpyywrS%252B5yeqbhCDigAuL7PECs597XKzyIbz41yo6wGnYJwHG%252BaQgdw2DJH9g1Bh%252F3dHTWVVc17NtPFbXz79RXRdTlgrdisXCJuX%252F%252F76E5ukFzY4J4LD05f9jMFe3OGUzARnhdvdt5pBZqK8w%253D%253D&crd=fhOysE0g3Bah%252BuqXA7NPQ87MoHrnzb%252BauJLKoOEbJsoWpil2oHdCJoFqwpC40R2BbXjxOqN5aidvdWyUwJOgEA%253D%253D' alt='QR Code'/></a>
+
 Amiibo generated from [Amiibo Generator](https://hax0kartik.github.io/amiibo-generator/)
 
 Creator of Wumiibo : [hax0kartik](https://github.com/hax0kartik)
