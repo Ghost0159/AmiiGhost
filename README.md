@@ -13,7 +13,7 @@ Amiibo generated from [Amiibo Generator](https://hax0kartik.github.io/amiibo-gen
 
 Creator of Wumiibo : [hax0kartik](https://github.com/hax0kartik)
 
-Creator of Universdal-Updater : [Universal-Team](https://github.com/Universal-Team)
+Creator of Universal-Updater : [Universal-Team](https://github.com/Universal-Team)
 
 Creator of this Script : [Ghost0159](https://github.com/Ghost0159)
 
