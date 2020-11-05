@@ -1,5 +1,5 @@
 <p align="center">
-	<div><img src="https://github.com/Ghost0159/AmiiGhost/raw/main/amiibo.jpg" height="300px"></div><br>
+	<img src="https://github.com/Ghost0159/AmiiGhost/raw/main/amiibo.jpg" height="300px"><br>
 	<b>A JSON Script, used to download amiibo with Universal-Updater, to then emulate them with Wumiibo</b><br>
 </p>
 
