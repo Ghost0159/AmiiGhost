@@ -1,0 +1,35 @@
+{
+"storeInfo":
+ {
+"title": "AmiiGhost",
+"author": "Ghost0159",
+"description": "A JSON script for download Amiibo, or emulate to Wumiibo\nAll amiibo go in : sd:/wumiibo",
+"categories": ["Mario"],
+"consoles": ["3DS"],
+"authors": ["Nintendo"],
+"url": "",
+"file": "AmiiGhost.unistore",
+"sheetURL": "",
+"sheet": "AmiiGhost.t3x",
+"bg_index": 0,
+"bg_sheet": 0,
+"revision": 1,
+"version": 3},
+{"info": {
+                "title": "Mario",
+                "author": "Nintendo",
+                "description": "A Mario Amiibo",
+                "category": ["Mario"],
+                "console": ["3DS"],
+                "icon_index": 1,
+                "sheet_index": 0,
+                "last_updated": "2020-11-05 at 14:03 (UTC)",
+                "version": ""
+},
+"Mario": [
+{
+                   "type": "downloadFile",
+                   "file": "https://github.com/Ghost0159/AmiiGhost/raw/main/Amiibo/Mario/Mario%20-%20flamme.bin",
+                   "output": "sdmc:/wumiibo/Mario-fire.bin",
+                   "message": "Downloading your current amiibo..."
+}]}]}
