@@ -1,5 +1,7 @@
-# AmiiGhost
-An JSON script for Universal-Updater, for download amiibo, for wumiibo
+<p align="center">
+	<a href="https://github.com/Ghost0159/AmiiGhost"><img src=""></a><br>
+	<b>A JSON Script, used to download amiibo with Universal-Updater, to then emulate them with Wumiibo</b><br>
+</p>
 
 Amiibo generated from [Amiibo Generator](https://hax0kartik.github.io/amiibo-generator/)
 
