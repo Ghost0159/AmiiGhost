@@ -1,0 +1,11 @@
+--atlas -f rgba8888 -z auto
+
+sprites/icon1.png
+sprites/icon2.png
+sprites/icon3.png
+sprites/icon4.png
+sprites/icon5.png
+sprites/icon6.png
+sprites/icon7.png
+sprites/icon8.png
+sprites/icon9.png
