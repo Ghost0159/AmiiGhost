@@ -12,8 +12,9 @@
 "sheetURL": "https://github.com/Ghost0159/AmiiGhost/raw/main/unistore/AmiiGhost.t3x",
 "sheet": "AmiiGhost.t3x",
 "bg_index": 0,
+"bg_sheet": 0,
 "revision": 3,
-"version": 3},
+"version": 4},
 "storeContent": [
 {"info": {
                 "title": "Mario - Fire",
