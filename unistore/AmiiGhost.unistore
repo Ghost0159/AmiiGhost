@@ -3,7 +3,7 @@
  {
 "title": "AmiiGhost",
 "author": "Ghost0159",
-"description": "A JSON script for download Amiibo, or emulate to Wumiibo\nAll amiibo go in : sd:/wumiibo",
+"description": "A JSON script for download Amiibo, or emulate to Wumiibo\n\nAll amiibo go in : sd:/wumiibo\n\nAmiibo generated from Amiibo Generator\nCreator of Wumiibo : hax0kartik\nCreator of Universal-Updater : Universal-Team\nCreator of this Script : Ghost0159",
 "categories": ["Mario"],
 "consoles": ["3DS"],
 "authors": ["Nintendo"],
@@ -13,7 +13,7 @@
 "sheet": "AmiiGhost.t3x",
 "bg_index": 0,
 "bg_sheet": 0,
-"revision": 4,
+"revision": 5,
 "version": 3},
 "storeContent": [
 {"info": {
@@ -26,7 +26,7 @@
                 "sheet_index": 0,
                 "last_updated": "2020-11-05 at 14:03 (UTC)"
 },
-"Mario": [
+"Mario - Fire": [
 {
                    "type": "downloadFile",
                    "file": "https://github.com/Ghost0159/AmiiGhost/raw/main/Amiibo/Mario/Mario%20-%20flamme.bin",
@@ -45,7 +45,7 @@
                 "sheet_index": 0,
                 "last_updated": "2020-11-05 at 14:03 (UTC)"
 },
-"": [
+"8-Bit Mario Classic Color": [
 {
                    "type": "downloadFile",
                    "file": "https://github.com/Ghost0159/AmiiGhost/raw/main/Amiibo/Mario/8-Bit%20Mario%20Classic%20Color.bin",
@@ -64,7 +64,7 @@
                 "sheet_index": 0,
                 "last_updated": "2020-11-05 at 14:03 (UTC)"
 },
-"": [
+"8-Bit Mario Modern Color": [
 {
                    "type": "downloadFile",
                    "file": "https://github.com/Ghost0159/AmiiGhost/raw/main/Amiibo/Mario/8-Bit%20Mario%20Modern%20Color.bin",
@@ -83,7 +83,7 @@
                 "sheet_index": 0,
                 "last_updated": "2020-11-05 at 14:03 (UTC)"
 },
-"": [
+"Dr. Mario": [
 {
                    "type": "downloadFile",
                    "file": "https://github.com/Ghost0159/AmiiGhost/raw/main/Amiibo/Mario/Dr.%20Mario.bin",
@@ -102,7 +102,7 @@
                 "sheet_index": 0,
                 "last_updated": "2020-11-05 at 14:03 (UTC)"
 },
-"": [
+"Mario - Gold Edition": [
 {
                    "type": "downloadFile",
                    "file": "https://github.com/Ghost0159/AmiiGhost/raw/main/Amiibo/Mario/Mario%20-%20Gold%20Edition.bin",
@@ -121,7 +121,7 @@
                 "sheet_index": 0,
                 "last_updated": "2020-11-05 at 14:03 (UTC)"
 },
-"": [
+"Mario - Silver Edition": [
 {
                    "type": "downloadFile",
                    "file": "https://github.com/Ghost0159/AmiiGhost/raw/main/Amiibo/Mario/Mario%20-%20Silver%20Edition.bin",
@@ -140,7 +140,7 @@
                 "sheet_index": 0,
                 "last_updated": "2020-11-05 at 14:03 (UTC)"
 },
-"": [
+"Mario - Wedding": [
 {
                    "type": "downloadFile",
                    "file": "https://github.com/Ghost0159/AmiiGhost/raw/main/Amiibo/Mario/Mario%20-%20Wedding.bin",
@@ -159,7 +159,7 @@
                 "sheet_index": 0,
                 "last_updated": "2020-11-05 at 14:03 (UTC)"
 },
-"": [
+"Mario": [
 {
                    "type": "downloadFile",
                    "file": "https://github.com/Ghost0159/AmiiGhost/raw/main/Amiibo/Mario/Mario.bin",
