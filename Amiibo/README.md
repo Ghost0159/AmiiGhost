@@ -1,5 +1,4 @@
-
-The last pas of [amiibo-generator](https://hax0kartik.github.io/amiibo-generator/) is the page nine
+The last page to be viewed from [amiibo-generator](https://hax0kartik.github.io/amiibo-generator/) is page nine
 
 
 The last Amiibo to be added is :  **Reese**
