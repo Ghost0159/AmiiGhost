@@ -1,8 +1,8 @@
-Latest page of [amiibo-generator](https://hax0kartik.github.io/amiibo-generator/)
-Is, page nine
+
+The last pas of [amiibo-generator](https://hax0kartik.github.io/amiibo-generator/) is the page nine
 
 
-Latest Homebrew Downloaded, is :  **Reese**
+The last Amiibo to be added is :  **Reese**
 
 <a href="https://github.com/Ghost0159/AmiiGhost/raw/main/Amiibo/Animal%20Crossing/Reese.bin">
   <img src="https://github.com/Ghost0159/AmiiGhost/raw/main/img/Animal%20Crossing/Reese.png">
