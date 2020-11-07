@@ -15,8 +15,25 @@ ______________________
 
 <details><summary><B>List of amiibo already added in the script:</B></summary>
   <ul>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li>Mario - Fire</li>
+  <li>8-Bit Mario Classic Color</li>
+  <li>8-Bit Mario Modern Color</li>
+  <li>Dr. Mario</li>
+  <li>Mario - Gold Edition</li>
+  <li>Mario - Silver Edition</li>
+  <li>Mario - Wedding</li>
+  <li>Mario</li>
+  <li>Luigi - Fly</li>
+  <li>Luigi</li>
+  <li>Peach - Wedding</li>
+  <li>Peach - Dancig Ball</li>
+  <li>Peach</li>
+  <li>Rosalina</li>
+  <li>Green Yarn Yoshi</li>
+  <li>Light Blue Yarn Yoshi</li>
+  <li>Mega Yarn Yoshi</li>
+  <li>Pink Yarn Yoshi</li>
+  <li>Yoshi - Hiking</li>
+  <li>Yoshi</li>
 </ul>
 </details></p>
