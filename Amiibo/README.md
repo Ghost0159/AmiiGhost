@@ -14,15 +14,9 @@ The last Amiibo to be added is :  **Reese**
 ______________________
 
 <details><summary><B>List of amiibo already added in the script:</B></summary>
-```
-  -
-  -
-  -
-  -
-  -
-  -
-  -
-  -
-  -
-```
+  <ul>
+  <li></li>
+  <li></li>
+  <li></li>
+</ul>
 </details></p>
