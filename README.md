@@ -1,4 +1,4 @@
-<h3><b>Repository close, because for amiibo it is possible to use wumiibohelper.</b></h3>
+<h2><b>Repository close, because for amiibo it is possible to use wumiibohelper</b></h2>
 
 <p align="center">
 	<img src="https://github.com/Ghost0159/AmiiGhost/raw/main/amiibo.jpg" height="300px"><br>
