@@ -1,3 +1,5 @@
+<h3><b>Repository close, because for amiibo it is possible to use wumiibohelper.</b></h3>
+
 <p align="center">
 	<img src="https://github.com/Ghost0159/AmiiGhost/raw/main/amiibo.jpg" height="300px"><br>
 	<b>A JSON Script, used to download amiibo with Universal-Updater, to then emulate them with Wumiibo</b><br>
